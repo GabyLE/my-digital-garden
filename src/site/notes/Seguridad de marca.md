@@ -1,0 +1,33 @@
+---
+{"dg-publish":true,"permalink":"/seguridad-de-marca/","created":"2024-03-01T17:46:36.767-05:00","updated":"2024-03-11T19:25:41.107-05:00"}
+---
+
+- ## ¿Qué es?
+	- Ejercicio de mantener la reputación de una marca a salvo cuando se anuncia en línea.
+	- Evitar relacionarse con temas con los que se prefiere que la marca no esté relacionada.
+	- 13 Temas de acuerdo con el *Interactive Advertising Bureau (IAB)* con los que las marcas deben evitar relacionarse:
+		- Conflictos militares
+		- Contenido obsceno
+		- Drogas
+		- Tabaco
+		- Contenido para adultos
+		- Armas
+		- Crimen
+		- Muerte/violencia
+		- Piratería en línea
+		- Discursos de odio
+		- Terrorismo
+		- Spam
+		- Noticias falsas
+- ## Garantizar la seguridad de la marca
+	- Definir lo que se considera "inseguro" para la marca. ¿Qué temas pueden ser perjudiciales?
+	- El alcance no lo es todo. No vale la pena aparecer en todos los sitios web de Internet si para hacerlo se pone en riesgo o se daña la seguridad de la marca.
+	- Usar tecnología confiable.
+	- Estrategias:
+		- Comprar espacios publicitarios directamente de editores reconocidos. Asegura que los anuncios no se coloque en cualquier parte.
+		- Usar el reconocimiento de imágenes. Identificará las imágenes que se consideran contenido no seguro para la marca.
+		- Seleccionar las palabras clave a evitar. Los editores permiten elegir palabras clave de las que se quiere mantener lejos. Incluirlas cuando se envíe el contenido.
+		- Aplicar segmentación geográfica. Permite saber en qué regiones se publican los anuncios, para asegurar que el contenido se presente a los clientes es preciso y relevante.
+- ## Recursos
+	- [Controles de Facebook para la seguridad de la marca](https://www.facebook.com/business/help/1926878614264962?id=1769156093197771)
+	- [Ayuda de Google Display & Vide 360: dirigida a la seguridad de la marca](https://support.google.com/displayvideo/answer/3032915)
