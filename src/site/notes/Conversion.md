@@ -1,9 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/conversion/","created":"2024-02-29T18:06:26.221-05:00","updated":"2024-03-11T19:50:02.091-05:00"}
+{"dg-publish":true,"permalink":"/conversion/","created":"2024-03-01T00:06:26.221+01:00","updated":"2024-04-03T01:01:31.000+02:00"}
 ---
 
+- **The process to get a potential customer to take a desired action**
 - Demonstrate and deliver value at this stage.
-- Goal: turn potential customers into buyers.
+- **Goal: turn potential customers into buyers.**
+- **Conversion rate:** The percentage of users or website visitors that take a desired action. Usually of 1-2%.
 - Conversion tactics:
 	- Accurate product descriptions
 	- Smooth checkout process
@@ -15,3 +17,37 @@
 	- Cost per conversion
 	- Average number of touchpoints
 	- Average order size
+## Strategies and tactics
+- **Optimize the checkout process**
+	- It should be as easy as posible.
+- **Add better product and service photos**
+	- Lifestyle photos, someone  using it.
+- **Strengthen the copy**
+	- **Copy:** Any written material that encourages a customer to buy a product or service. It should be persuasive. Emotional apeal.
+- **Add a live chat**
+	- In case of the customer having an issue during check-out.
+	- Or just have a chat bot to answer basic or common questions.
+- **Pursue abandoned carts**
+	- Enters the email but doesn´t make the purchase.
+	- Send an email to remind what's in their cart.
+- **Increase website speed**
+	- Reducing the size of images.
+- **Offer a trial or a money back guarantee**
+- **Experiment with A/B test**
+	- **A/B test:** When you compare two versions of a webpage to determine which has the highest conversion rate.
+	- Change one element at a time to get the most precise results.
+## Casos de uso
+- **Pursue abandoned carts**
+	- Enviar un correo de seguimiento, la firma recuerda al cliente los artículos que agregó a su carrito digital, pero no lo compró.
+- **Optimize the check out process**
+	- Proceso de pago con menos campos que llenar.
+- **Add better product and service photos**
+	- Añadir fotos que sean fáciles de relacionar con la experiencia personal, muestran a las personas usando el producto en la vida cotidiana.
+	- Crear animaciones que expliquen las características especiales de sus fundas.
+	- Las fotos y animaciones de mayor calidad incentivan a las y los clientes a pasar a la acción y realizar la compra.
+- **Strengthen the copy**
+	- El texto incluye una apelación emocional, explicando cómo la vida del cliente podría ser diferente si adquiriese el producto.
+	- Usar SEO
+- Rediseñar la página de preguntas frecuentes e incluyó las preguntas más comunes recibidas por correo electrónico.
+- **Experiment with A/B test**
+	- Probar los cambios para asegurarse de que estuvieran generando más ventas.
