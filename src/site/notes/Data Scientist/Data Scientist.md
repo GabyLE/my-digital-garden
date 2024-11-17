@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/data-scientist/data-scientist/","created":"2023-11-11T14:19:16.203-05:00","updated":"2024-03-02T09:11:58.885-05:00"}
+{"dg-publish":true,"permalink":"/data-scientist/data-scientist/","created":"2023-11-11T20:19:16.203+01:00","updated":"2024-03-02T15:11:58.885+01:00"}
 ---
 
 - 𝗣𝗹𝗮𝗻𝘁𝗲𝗮𝗺𝗶𝗲𝗻𝘁𝗼 𝗱𝗲𝗹 𝗽𝗿𝗼𝗯𝗹𝗲𝗺𝗮: Definir claramente el problema que se desea resolver, estableciendo los objetivos y criterios de éxito del proyecto.  
