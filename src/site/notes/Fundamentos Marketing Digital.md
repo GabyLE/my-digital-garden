@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/fundamentos-marketing-digital/","created":"2024-02-26T17:20:20.432-05:00","updated":"2024-03-17T18:55:48.725-05:00"}
+{"dg-publish":true,"permalink":"/fundamentos-marketing-digital/","created":"2024-02-26T23:20:20.432+01:00","updated":"2024-03-18T00:55:48.725+01:00"}
 ---
 
 - [[Marketing inclusivo\|Marketing inclusivo]]
