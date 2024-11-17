@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/c2-c/","created":"2024-02-27T18:36:04.194-05:00","updated":"2024-03-11T19:52:02.932-05:00"}
+{"dg-publish":true,"permalink":"/c2-c/","created":"2024-02-28T00:36:04.194+01:00","updated":"2024-03-12T01:52:02.000+01:00"}
 ---
 
 - Las personas venden productos o servicios a otras personas.
