@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/seguridad-de-marca/","created":"2024-03-01T17:46:36.767-05:00","updated":"2024-03-11T19:25:41.107-05:00"}
+{"dg-publish":true,"permalink":"/seguridad-de-marca/","created":"2024-03-01T23:46:36.767+01:00","updated":"2024-03-12T01:25:41.000+01:00"}
 ---
 
 - ## ¿Qué es?
