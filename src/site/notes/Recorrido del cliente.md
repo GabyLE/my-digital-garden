@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/recorrido-del-cliente/","created":"2024-02-28T17:44:51.124-05:00","updated":"2024-03-18T17:43:14.129-05:00"}
+{"dg-publish":true,"permalink":"/recorrido-del-cliente/","created":"2024-02-28T23:44:51.124+01:00","updated":"2024-03-18T23:43:14.000+01:00"}
 ---
 
 - ## Pain points
