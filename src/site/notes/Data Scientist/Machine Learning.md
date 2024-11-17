@@ -1,7 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/data-scientist/machine-learning/","created":"2023-11-09T12:46:12.402-05:00","updated":"2024-03-24T16:08:33.045-05:00"}
+{"dg-publish":true,"permalink":"/data-scientist/machine-learning/","created":"2023-11-09T18:46:12.402+01:00","updated":"2024-09-14T18:59:03.174+02:00"}
 ---
 
+- Feature Engineering
+	- [[Data Scientist/Label Encoding\|Label Encoding]]
+	- [[Data Scientist/One-hot Encoding\|One-hot Encoding]]
+	- [[Data Scientist/Keyword encoding\|Keyword encoding]]
+	- [[Data Scientist/Ordinal Encoding\|Ordinal Encoding]]
+- Feature Selection
 - [[Data Scientist/Supervised Machine Learning\|Supervised Machine Learning]]
 	- [[Data Scientist/Regression Models\|Regression Models]]
 		- [[Data Scientist/Linear Regression\|Linear Regression]]
