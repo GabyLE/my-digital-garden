@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/data-scientist/uc-predicting-movie-rental-durations/","created":"2023-11-07T16:23:35.056-05:00","updated":"2024-03-02T08:54:21.952-05:00"}
+{"dg-publish":true,"permalink":"/data-scientist/uc-predicting-movie-rental-durations/","created":"2023-11-07T22:23:35.056+01:00","updated":"2024-03-02T14:54:21.952+01:00"}
 ---
 
 
