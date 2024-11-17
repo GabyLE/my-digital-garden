@@ -1,0 +1,55 @@
+---
+{"dg-publish":true,"permalink":"/loyalty/","created":"2024-03-01T00:09:10.680+01:00","updated":"2024-04-05T00:41:42.000+02:00"}
+---
+
+- **When customers become repeat customers and brand advocates**
+- Talk about the product with friends, make a post on social media.
+- Depends on the value and quality of the product
+- Tactics:
+	- Great experience during and after purchase
+	- Follow-up emails
+	- Rewards programs
+	- Social media engagement
+- ### Metrics
+	- Rate of repeat purchases
+	- Length of time between purchases
+	- Number of orders per customer
+	- Rate of account activation after sign-up
+	- Engagement with rewards programs
+## Strategies and tactics
+- **Rewards programs**
+	- Examples: Starbucks, McDonalds, ...
+- **Email marketing**
+	- Emails that provide value
+	- Educating costumers and sharing your history
+- **Social shares**
+	- Deliver content that they want to share with others
+- **Remarketing customers**
+	- Ad remarketing, re-engage customers
+	- Recommend an other product or add-ons
+- **Encourage reviews**
+	- Encourage customers to leave a positive review
+	- Reviews can be through a social media post or email. They can be share on the web site or social media.
+- **Birthday and anniversary offers**
+	- Provide discounts on the anniversary of the first day they became a customer.
+- **Freebies**
+	- Ways to get customers reminded of the brand over and over again.
+	- Sticker, magnet, t-shirt, something related to the business.
+- **Amusing confirmation messages**
+	- Add personality to the confirmation message.
+## Casos de uso
+- **Social shares**
+	- Contenido de Instagram con un enfoque de consejos.
+	- Post educativos pueden tener más posibilidad de ser compartidos.
+	- Sorteos mensuales de productos entre clientes que publiquen su última compra en las redes sociales. Cada mes seleccionan a una persona que etiquete su cuenta de Instagram en una publicación para recibir el obsequio.
+- **Encourage reviews**
+	- Las reseñas indican qué tan satisfecha está una persona con una compra.
+	- Las reseñas pueden persuadir a un cliente potencial para que realice una compra.
+	- Cuando una persona se toma el tiempo de escribir por qué está conforme con un producto, desarrolla sentimientos positivos hacia éste y construye lealtad de marca.
+	- Enviar correo electrónico de seguimiento a sus clientes una semana después de haber entregado, pidiéndoles que escriban una reseña.
+- **Enviar obsequios**
+	- Artículos que cada cliente recibe junto al producto comprado. Un sticker, un imán y un manual de instrucciones.
+	- Este tipo de gesto ayuda a crear una conexión con la marca.
+	- La exhibición pública de la marca los convierte en promotores de la misma.
+- **Cross selling**
+	- Vender otros productos y promocionarlos con anuncios. Ejemplo: "Si una persona compró una funda de cuero de color marrón para el teléfono, puede recibir anuncios con una cartera del mismo color que combine con la funda."
