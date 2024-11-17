@@ -1,8 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/set-goals/","created":"2024-03-01T19:53:39.824-05:00","updated":"2024-03-07T09:56:23.135-05:00"}
+{"dg-publish":true,"permalink":"/set-goals/","created":"2024-03-02T01:53:39.824+01:00","updated":"2024-06-06T23:47:17.559+02:00"}
 ---
 
-- Why they matter?
+## Why are they important?
+- Goals hold you accountable. 
+- Can guide your budget.
+- Measure your success. Identify areas of improvement.
+## Business goals and marketing goals
 - They must be clear
 - Business goals:
 	- Desired aims, achievements, or outcomes for a business.
