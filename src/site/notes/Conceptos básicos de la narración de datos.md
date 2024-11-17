@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/conceptos-basicos-de-la-narracion-de-datos/","created":"2024-03-17T18:39:00.211-05:00","updated":"2024-03-17T18:52:38.439-05:00"}
+{"dg-publish":true,"permalink":"/conceptos-basicos-de-la-narracion-de-datos/","created":"2024-03-18T00:39:00.211+01:00","updated":"2024-03-18T00:52:38.000+01:00"}
 ---
 
 - Data storytelling: Conveying data insights to a specific audience using a clear and compelling narrative.
