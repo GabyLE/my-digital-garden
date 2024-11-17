@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/modelos-de-atribucion-en-marketing-digital/","created":"2024-03-17T18:27:25.523-05:00","updated":"2024-03-17T18:34:36.765-05:00"}
+{"dg-publish":true,"permalink":"/modelos-de-atribucion-en-marketing-digital/","created":"2024-03-18T00:27:25.523+01:00","updated":"2024-03-18T00:34:36.000+01:00"}
 ---
 
 - **Atribution:** Determing which content and channels are responsible for generating the leads, conversions or sign-ups.
