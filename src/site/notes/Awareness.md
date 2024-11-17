@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/awareness/","created":"2024-02-29T12:49:28.050-05:00","updated":"2024-03-25T18:11:43.969-05:00"}
+{"dg-publish":true,"permalink":"/awareness/","created":"2024-02-29T18:49:28.050+01:00","updated":"2024-03-26T00:39:02.000+01:00"}
 ---
 
 - The customers have an specific problem or pain point.
@@ -13,15 +13,15 @@
 	- Paying to place digital ads on websites, social media, email, or video platforms.
 	- Forming promotional partnerships with other brands or influencers.
 - Consistent online presence.
-- ### Metrics
-	- Impressions: total number of times an ad appears on peoples' screens.
-	- Reach: total number of unique individuals who encounter an ad across their different devices.
-	- Frequency: how many times each individual encounters an ad in a given timeframe.
-- ## Strategies and tactics
-	- ### Definitions
+### Metrics
+- Impressions: total number of times an ad appears on peoples' screens.
+- Reach: total number of unique individuals who encounter an ad across their different devices.
+- Frequency: how many times each individual encounters an ad in a given timeframe.
+## Strategies and tactics
+- ### Definitions
 		- A **strategy** supports the plan to achieve the marketing goal and tend to be more general ideas.
 		- A **tactic** is an action taken to make the plan happen.
-	- ### Awareness strategies and tactics
+- ### Awareness strategies and tactics
 		- Search engine optimization ([[SEO\|SEO]])
 			- When a customer search for a resolution to their pain point.
 		- Search engine marketing ([[SEM\|SEM]])
@@ -42,3 +42,19 @@
 		- Content marketing
 			- Creating and distributing valuable content.
 			- Downloadable e-book or educational web page.
+- ### Enfoque
+	- Usar lenguaje que refleje los valores de la marca en las estrategias de marketing.
+- ### Casos de uso
+		- **Marketing de motores de búsqueda**
+			- Aparecer en la primera página de resultados de búsqueda de Google y Bing para las palabras claves. Búsquedas específicas.
+			- Presencia en la parte superior de la página de resultados de búsqueda
+				- Crear y publicar anuncios de búsqueda utilizando Google Ads y Microsoft Advertising. Permiten presentar la marca a las personas que buscan productos como los suyos.
+		- **Marketing en redes sociales**
+			- Proporcionar más información útil en su contenido de redes.
+			- Hacer referencia a la marca en general, no solo a un producto en específico.
+		- **Publicidad en redes sociales**
+			- Llegar a nuevos clientes potenciales basados en los clientes tipo.
+			- El contenido de los anuncios reutiliza el contenido de las redes.
+		- **Marketing de influencers**
+			- Influencer recomienda el producto/servicio y ofrece descuento para las próximas 200 compras.
+			- Asegurarse que el influencer tenga una audiencia interesada en ese tipo de producto.
