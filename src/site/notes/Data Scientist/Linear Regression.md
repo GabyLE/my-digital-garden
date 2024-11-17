@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/data-scientist/linear-regression/","created":"2023-11-09T15:37:20.598-05:00","updated":"2024-03-02T08:53:50.842-05:00"}
+{"dg-publish":true,"permalink":"/data-scientist/linear-regression/","created":"2023-11-09T21:37:20.598+01:00","updated":"2024-03-02T14:53:50.842+01:00"}
 ---
 
 
