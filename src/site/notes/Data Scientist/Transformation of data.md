@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/data-scientist/transformation-of-data/","created":"2023-11-11T14:59:12.902-05:00","updated":"2024-03-02T09:12:05.200-05:00"}
+{"dg-publish":true,"permalink":"/data-scientist/transformation-of-data/","created":"2023-11-11T20:59:12.902+01:00","updated":"2024-03-02T15:12:05.200+01:00"}
 ---
 
 
