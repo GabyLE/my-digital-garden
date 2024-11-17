@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/seo/","created":"2024-03-04T17:54:38.098-05:00","updated":"2024-03-11T19:03:32.298-05:00"}
+{"dg-publish":true,"permalink":"/seo/","created":"2024-03-04T23:54:38.098+01:00","updated":"2024-04-17T01:24:36.000+02:00"}
 ---
 
 - Search Engine Optimization -> SEO
-	- Process of increasing the quality and quantity of traffic to a website from search engines.
-- Search Engine Results Pages (SERPs): Pages of results produced when someone performs a search.
+	- Process of increasing the quality and quantity of traffic to a website from [[search engines\|search engines]].
+- Search Engine Results Pages ([[SERPs\|SERPs]]): Pages of results produced when someone performs a search.
 ## Basics
 - Keyword research: Process of identifying common search terms and phrases consumers use to find products or services online.
 - Quality content: 
