@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/b2-c/","created":"2024-02-27T18:31:33.016-05:00","updated":"2024-03-11T19:51:45.572-05:00"}
+{"dg-publish":true,"permalink":"/b2-c/","created":"2024-02-28T00:31:33.016+01:00","updated":"2024-03-12T01:51:45.000+01:00"}
 ---
 
 - Forma más común de comercio electrónico.
