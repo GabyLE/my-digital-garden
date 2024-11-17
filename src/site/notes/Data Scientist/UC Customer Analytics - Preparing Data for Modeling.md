@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/data-scientist/uc-customer-analytics-preparing-data-for-modeling/","created":"2023-11-05T16:11:47.159-05:00","updated":"2024-03-02T08:54:58.948-05:00"}
+{"dg-publish":true,"permalink":"/data-scientist/uc-customer-analytics-preparing-data-for-modeling/","created":"2023-11-05T22:11:47.159+01:00","updated":"2024-03-02T14:54:58.948+01:00"}
 ---
 
 
