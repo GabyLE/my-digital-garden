@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/estrategia-de-marketing-digital/","created":"2024-03-01T18:08:36.355-05:00","updated":"2024-03-07T09:55:29.395-05:00"}
+{"dg-publish":true,"permalink":"/estrategia-de-marketing-digital/","created":"2024-03-02T00:08:36.355+01:00","updated":"2024-03-07T15:55:29.395+01:00"}
 ---
 
 - A plan for achieving specific goals through online channels to support and advance business objectives.
