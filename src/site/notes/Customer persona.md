@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/customer-persona/","created":"2024-03-18T17:45:40.123-05:00","updated":"2024-03-19T17:10:32.198-05:00"}
+{"dg-publish":true,"permalink":"/customer-persona/","created":"2024-03-18T23:45:40.123+01:00","updated":"2024-03-19T23:10:32.000+01:00"}
 ---
 
 - Represents a group of similar people in a desirable audience.
