@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/data-scientist/numpy/","created":"2023-11-08T08:44:23.596-05:00","updated":"2024-03-02T08:54:43.830-05:00"}
+{"dg-publish":true,"permalink":"/data-scientist/numpy/","created":"2023-11-08T14:44:23.596+01:00","updated":"2024-03-02T14:54:43.830+01:00"}
 ---
 
 
