@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/whitepapers/","created":"2024-03-04T17:46:31.461-05:00","updated":"2024-03-04T17:52:28.550-05:00"}
+{"dg-publish":true,"permalink":"/whitepapers/","created":"2024-03-04T23:46:31.461+01:00","updated":"2024-03-04T23:52:28.000+01:00"}
 ---
 
 
