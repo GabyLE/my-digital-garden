@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/objetivos-smart/","created":"2024-03-01T20:13:18.858-05:00","updated":"2024-03-07T09:56:51.857-05:00"}
+{"dg-publish":true,"permalink":"/objetivos-smart/","created":"2024-03-02T02:13:18.858+01:00","updated":"2024-03-07T15:56:51.857+01:00"}
 ---
 
 - Cuando establezcas tus objetivos, puedes hacer referencia al acrónimo SMART. SMART son las siglas en inglés de **específico, medible, alcanzable, relevante** y **temporal.** Garantizar que tus objetivos cumplan con estos criterios te ayudará a mantener un orden y a seguir un rumbo claro con tu campaña y le dará un marco temporal a tu trabajo.
