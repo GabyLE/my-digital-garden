@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/data-scientist/logistic-regression/","created":"2023-11-09T15:50:18.451-05:00","updated":"2024-03-02T09:11:06.034-05:00"}
+{"dg-publish":true,"permalink":"/data-scientist/logistic-regression/","created":"2023-11-09T21:50:18.451+01:00","updated":"2024-03-02T15:11:06.034+01:00"}
 ---
 
 - Type: Classification
