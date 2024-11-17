@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/marketing-inclusivo/","created":"2024-02-28T17:18:03.782-05:00","updated":"2024-03-11T19:33:21.528-05:00"}
+{"dg-publish":true,"permalink":"/marketing-inclusivo/","created":"2024-02-28T23:18:03.782+01:00","updated":"2024-03-12T01:33:21.000+01:00"}
 ---
 
 - Ampliar la representación y mejorar el sentido de pertenencia en los materiales de marketing y publicidad que crea una organización.
