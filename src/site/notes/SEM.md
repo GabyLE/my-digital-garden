@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sem/","created":"2024-03-11T19:03:58.988-05:00","updated":"2024-03-11T19:16:13.071-05:00"}
+{"dg-publish":true,"permalink":"/sem/","created":"2024-03-12T01:03:58.988+01:00","updated":"2024-04-26T01:35:49.000+02:00"}
 ---
 
 - Search engine marketing
@@ -9,8 +9,27 @@
 - After having the keywords. One must enter an ad auction.
 	- Ad auction: How a search engine determines which ads to display, and the order they're shown, when someone performs a search.
 - To bid on a keyword, is how much am I willing to pay when someone searches for a term and clicks on the ad.
-- Pay-per-click advertising (PPC): An advertising model where you pay only when someone clicks on your ad.
+- **Pay-per-click advertising (PPC):** An advertising model where you pay only when someone clicks on your ad.
+- Another way of paid advertising is when you pay per impressions, as in, when someone sees the ad.
+- SEM can be done in e-commerce platforms. It's called: product base search engine.
 ### Advantages
-- Reaching customers quickly.
-- Controlling where visitors land on the site.
-- Remarketing.
+- Reach likely customers.
+- Quickly appearing in the search result pages.
+- Learn which ads are driving sales
+- Control over where you send the searchers
+## Ad Formats
+- **Text Ads:** Title that is a link. It has a description.
+- **Shopping ads:** Shows a product.
+- **Local services ads:** Needs to be screened for Google.
+- **Google Map ads:** Mainly for local businesses.
+- **Phone ads:** For calling services.
+
+- **Ad extension:** Features additional info about a business, such as additional website links, a phone number, or an address.
+	- Site links
+	- Call
+	- Location
+	- Price (mainly for e-commerce businesses)
+	- Snippets (highlights services)
+
+Simplifying [[Bidding Strategies in Google Ads\|Bidding Strategies in Google Ads]]
+![](https://i.imgur.com/MZ73uU7.png)
