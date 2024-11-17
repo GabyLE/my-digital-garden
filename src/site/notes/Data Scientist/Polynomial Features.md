@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/data-scientist/polynomial-features/","created":"2023-11-11T12:33:23.674-05:00","updated":"2024-03-02T09:13:31.650-05:00"}
+{"dg-publish":true,"permalink":"/data-scientist/polynomial-features/","created":"2023-11-11T18:33:23.674+01:00","updated":"2024-03-02T15:13:31.000+01:00"}
 ---
 
 
