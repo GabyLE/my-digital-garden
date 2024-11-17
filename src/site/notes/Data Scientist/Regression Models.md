@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/data-scientist/regression-models/","created":"2023-11-14T14:52:38.220-05:00","updated":"2024-03-02T09:10:16.965-05:00"}
+{"dg-publish":true,"permalink":"/data-scientist/regression-models/","created":"2023-11-14T20:52:38.220+01:00","updated":"2024-03-02T15:10:16.000+01:00"}
 ---
 
 
