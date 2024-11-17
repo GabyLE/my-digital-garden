@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/research-your-audience/","created":"2024-03-01T18:26:32.650-05:00","updated":"2024-03-18T17:45:49.587-05:00"}
+{"dg-publish":true,"permalink":"/research-your-audience/","created":"2024-03-02T00:26:32.650+01:00","updated":"2024-03-18T23:45:49.587+01:00"}
 ---
 
 ## ¿Por qué es importante conocer a tu público?
