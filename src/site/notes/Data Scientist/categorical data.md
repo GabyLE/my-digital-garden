@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/data-scientist/categorical-data/","created":"2023-11-05T18:35:38.395-05:00","updated":"2024-03-02T08:55:58.780-05:00"}
+{"dg-publish":true,"permalink":"/data-scientist/categorical-data/","created":"2023-11-06T00:35:38.395+01:00","updated":"2024-03-02T14:55:58.000+01:00"}
 ---
 
 
