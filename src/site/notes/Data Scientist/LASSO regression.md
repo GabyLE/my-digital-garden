@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/data-scientist/lasso-regression/","created":"2023-11-08T08:20:55.183-05:00","updated":"2024-03-02T08:59:27.213-05:00"}
+{"dg-publish":true,"permalink":"/data-scientist/lasso-regression/","created":"2023-11-08T14:20:55.183+01:00","updated":"2024-08-17T01:29:00.504+02:00"}
 ---
 
 
->Used to estimate the relationships between variables and make predictions. Finding balance between model simplicity and accuracy. Ir achieves this by adding a penalty term to the traditional [[Data Scientist/Linear Regression\|Linear Regression]] , which encourages sparse solutions where some coefficients are forced to be exactly zero. This feature makes LASSO useful for feature selection, as it can automatically identify and discard irrelevant or redundant variables 
+>Used to estimate the relationships between variables and make predictions. Finding balance between model simplicity and accuracy. It achieves this by adding a penalty term to the traditional [[Data Scientist/Linear Regression\|Linear Regression]] , which encourages sparse solutions where some coefficients are forced to be exactly zero. This feature makes LASSO useful for feature selection, as it can automatically identify and discard irrelevant or redundant variables 
 
 
 - Also L1 regularization
