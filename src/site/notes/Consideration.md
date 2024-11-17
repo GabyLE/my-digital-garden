@@ -1,19 +1,61 @@
 ---
-{"dg-publish":true,"permalink":"/consideration/","created":"2024-02-29T17:38:34.361-05:00","updated":"2024-03-11T19:49:38.934-05:00"}
+{"dg-publish":true,"permalink":"/consideration/","created":"2024-02-29T23:38:34.361+01:00","updated":"2024-03-27T03:10:28.000+01:00"}
 ---
 
+- **When you build interest for your product or service**
 - Getting to know you stage.
 - When people start exploring the business and find out what is different from the competition.
 - Goal: increase chances of the customer making a purchase.
+- **La etapa de Consideración suele proporcionar información más detallada y persuasiva que la etapa de Conciencia ([[Awareness\|Awareness]])**
 - Potential customers turn to leads
 	- Lead: a potential customer who has interacted with a brand and shared personal information, like an email address.
 - Conversion tactics:
 	- Serve ads based on products and pages visited
 	- Blog posts, newsletters, webinars
 	- Samples, tools, trial memberships
-- ### Metrics
-	- How often customers search for your business online.
-	- Number of first-time visitors.
-	- Number of pages per visitor
-	- How long visitor stay on a page
-	- Singing up to email newsletter.
+### Metrics
+- How often customers search for your business online.
+- Number of first-time visitors.
+- Number of pages per visitor
+- How long visitor stay on a page
+- Singing up to email newsletter.
+## Strategies and tactics
+- **Unique selling proposition:**
+	- Explains why a product or service is better than the competition.
+- **Testimonials:**
+	- When customers provide their experience with a product or service.
+	- Can build trust in a potential customer.
+	- Can be written, in audio, or video.
+	- Aumentar confianza de los clientes potenciales a través de las reseñas en el Perfil de Negocio de Google.
+- **Case studies:**
+	- Similar to testimonials, but they're usually more in-depth.
+	- Often in written format.
+	- Can be use to explain the progression of projects that last several months.
+	- A thorough case study builds trust in the potential customer.
+- **Remarketing ads:**
+	- Common on e-commerce.
+- **Webinars:**
+	- Presentations, typically educational, that are provided online.
+	- Great way to both educate potential customers and promote your product or service.
+	- Challenge: getting people to attend.
+- **Email marketing:**
+	- Send promotional or educational emails to a list.
+	- Customer wants to learn more about a product or services.
+- **Social media marketing:**
+	- Potential customers are followers.
+	- Post to followers consistently with varied content to build their interest in the brand.
+	- Compartir historia empresarial en las redes sociales, por correo electrónico y en la página de productos. Las personas confían más en la marca luego de leer la historia de la empresa.
+## Casos de uso
+- **Remarketing ads:**
+	- Luego de ver un producto en su sitio web. Volver a promocionarlo a través de anuncios en línea.
+	- Los anuncios se muestran en sitios web compatibles con Google Ads, Facebook e Instagram. Los sitios web no dañan la [[Seguridad de marca\|Seguridad de marca]].
+- **Email marketing:**
+	- ==Marketing por correo electrónico. Asociarse con marcas no competidoras que compartan valores e intereses similares, cada marca envía un correo electrónico a su lista de contactos con un mensaje promocionando el negocio de la otra.==
+	- La persona visita el sitio web y se le anima a suscribirse en la lista de correo electrónico para recibir un descuento del 15% en el primer pedido.
+	- Mantener el contacto con estos clientes. Clientes reciben una vez a la semana correos electrónicos sobre productos.
+	- En los correos se cuenta también la historia de la marca: cómo empezó el negoció, la calidad de los productos, la sostenibilidad (valores) y cómo está inspirando a su clientela.
+- **Testimonials:**
+	- Los clientes comparten cómo resultó su experiencia con los productos de la empresa.
+	- Añadir reseñas positivas en las páginas de sus productos, en redes sociales, la página, y periódicamente en los correos electrónicos.
+- **Unique selling proposition:**
+	- Incluir la USP ("*fundas de cuero para teléfonos y diseños de primera calidad que pueden ir a todas partes*) en el sitio web y en los materiales de marketing, para que el cliente la vea con frecuencia.
