@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/data-scientist/graphics/","created":"2023-11-11T14:34:56.984-05:00","updated":"2024-03-02T09:13:13.019-05:00"}
+{"dg-publish":true,"permalink":"/data-scientist/graphics/","created":"2023-11-11T20:34:56.984+01:00","updated":"2024-03-02T15:13:13.019+01:00"}
 ---
 
 
