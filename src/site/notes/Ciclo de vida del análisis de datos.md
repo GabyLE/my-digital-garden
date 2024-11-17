@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ciclo-de-vida-del-analisis-de-datos/","created":"2024-02-27T17:43:07.367-05:00","updated":"2024-03-04T18:46:53.356-05:00"}
+{"dg-publish":true,"permalink":"/ciclo-de-vida-del-analisis-de-datos/","created":"2024-02-27T23:43:07.367+01:00","updated":"2024-03-05T00:46:53.000+01:00"}
 ---
 
 
