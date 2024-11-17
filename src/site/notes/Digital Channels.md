@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-channels/","created":"2024-03-04T17:10:29.411-05:00","updated":"2024-03-04T17:53:34.958-05:00"}
+{"dg-publish":true,"permalink":"/digital-channels/","created":"2024-03-04T23:10:29.411+01:00","updated":"2024-03-04T23:53:34.000+01:00"}
 ---
 
 - Paid media: Any form of digital promotion a brand pays to put online.
