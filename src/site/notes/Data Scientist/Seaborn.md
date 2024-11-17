@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/data-scientist/seaborn/","created":"2023-11-11T14:20:13.563-05:00","updated":"2024-03-02T09:12:52.577-05:00"}
+{"dg-publish":true,"permalink":"/data-scientist/seaborn/","created":"2023-11-11T20:20:13.563+01:00","updated":"2024-03-02T15:12:52.000+01:00"}
 ---
 
 
